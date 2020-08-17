@@ -22,4 +22,4 @@ The steps use Dijkstra’s algorithm to find the shortest path in a grph:
 
   c. Update the distance values of all adjacent vertices of u. To update the distance value, traverse all adjacent end points. For each adjacent vertex v, if the sum of the distance value of u (from the source) and the weight of the edge uv is less than the distance value of v, the distance value of v is updated.
 
-https://github.com/SnailC74/Dijkstra-s-Algorithm/issues/1#issue-679861927
+![Algorithm](https://user-images.githubusercontent.com/60499437/90347823-d1e75d00-dfef-11ea-97bf-5fdd3c3d5260.png)
