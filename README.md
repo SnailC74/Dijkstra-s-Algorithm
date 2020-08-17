@@ -21,3 +21,5 @@ The steps use Dijkstra’s algorithm to find the shortest path in a grph:
   b. Include u to sptSet.
 
   c. Update the distance values of all adjacent vertices of u. To update the distance value, traverse all adjacent end points. For each adjacent vertex v, if the sum of the distance value of u (from the source) and the weight of the edge uv is less than the distance value of v, the distance value of v is updated.
+
+https://github.com/SnailC74/Dijkstra-s-Algorithm/issues/1#issue-679861927
